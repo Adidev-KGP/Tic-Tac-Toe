@@ -10,3 +10,5 @@ X
 Now the O Element has to play 
 
 So this c++ code will print all the possible moves and in the end print whether O will win,lose or draw
+
+IT IS CODED IN SUCH A WAY THAT IT WILL PREFER TO WIN,IF WIN IS NOT POSSIBLE THEN IT WILL TRY TO DRAW, OTHERWISE IT WILL LOSE
